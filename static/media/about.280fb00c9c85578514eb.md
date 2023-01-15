@@ -1,0 +1,4 @@
+
+# Intro
+
+I have been leading the construction and implementation of Digital Transformation Framework at FPT Software, an IT Service company with more than 25000 employees over 26 countries. This framework is being used to generate more than 200 million USD last year. With more than 15 years working with start-ups in Vietnam and Australia, I'm also experienced to coach business leaders from scratch, and enable exponential, profitable growth. The latest achievement is the triple annual revenue growth of a profitable retail chain-store from 4 to 1000 stores in 2 years. Together with solid background in technical architecture such as micro-service, event-driven, serverless, cloud-native architectures, and comprehensive understanding of enabling technologies like Cloud, AI/Data Analytics, RPA/Low-code to transform business model, I have helped businesses to quickly realize values of digital transformation in just 3-6 months. 
